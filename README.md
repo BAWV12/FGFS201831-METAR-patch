@@ -1,5 +1,5 @@
 # FGFS201831-METAR-patch
-Patched linux binary after NOAA changed URL for METAR data.
+Patched linux (LUbuntu 18.04) binary after NOAA changed URL for METAR data.
 Usage :
 Backup Your original fgfs.exe
 Download this package, extract fgfs.exe and overwrite original one
