@@ -4,6 +4,7 @@ This patch uses additive python script for redirecting to new NOAA URL
 Usage :
 Backup Your original fgfs.exe
 Download this package, extract fgfs.exe and overwrite original one
+Set EXECUTE permission on this new file
 Run Terminal and use command python3 metar.py. Then start FGFS. 
 Based on SurferTim's solution described at https://forum.flightgear.org/viewtopic.php?p=342372#p342372
 All credits and big thanks to SurferTim
