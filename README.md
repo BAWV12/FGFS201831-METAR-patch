@@ -11,3 +11,7 @@ All credits and big thanks to SurferTim
 
 Attention !!!
 This is patched FGFS 2018.3.1. It will work only with original FGFS2018.3.1. No other version supported.
+
+Manual patch with hex editor :
+find text http://tgftp.nws.noaa.gov/data/observations/metar/stations/
+replace it with http://mgouin.appspot.com/fg?icao-station-identifier-name1= 
